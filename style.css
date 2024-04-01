@@ -19,6 +19,7 @@ padding: 0 15%;
 .cabecalho-titulo{
     padding: 20px 0;
 }
+
 .div-cabecalho-logo {
     display: flex;
 }
@@ -27,4 +28,26 @@ padding: 0 15%;
     display: inline-block;
     margin: 0 22px;
     font-size: 24;
+}
+
+.escola-imagem{
+    width: 20%;
+}
+
+.escola{
+    background-image:linear-gradient(#0E1272, #A7A8C0);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-titulo{
+    padding: 12px 0;
+}
+.escola-texto-um{
+    padding: 2px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
 }
